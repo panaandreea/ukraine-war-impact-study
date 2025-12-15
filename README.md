@@ -13,6 +13,6 @@ A case study is employed to illustrate the economic impact of the conflict,
 focusing on the natural gas market, a strategic sector with significant
 spillover effects on European economies, societies, and public policies.
 
-**Field:** Macroeconomics / Social Sciences  
+**Field:** Macroeconomics 
 **Author:** Andreea PANA
 **Year:** 2025
